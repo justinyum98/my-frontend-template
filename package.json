@@ -12,6 +12,8 @@
     "build-storybook": "build-storybook"
   },
   "dependencies": {
+    "faker": "^4.1.0",
+    "lodash": "^4.17.15",
     "next": "9.4.0",
     "react": "16.13.1",
     "react-dom": "16.13.1"
